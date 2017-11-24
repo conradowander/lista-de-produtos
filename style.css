@@ -1,0 +1,16 @@
+.row {
+  margin: 20px;
+}
+
+li {
+  overflow: auto;
+}
+
+.badge {
+  margin-left: 5px;
+}
+
+#listado {
+	width: 300px;
+	margin: 0 auto;
+}
